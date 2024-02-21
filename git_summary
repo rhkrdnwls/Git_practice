@@ -1,0 +1,3 @@
+If you use 
+git push --set-upstream origin master
+The first thing that happens is that the local repository and the github repository are connected
